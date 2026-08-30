@@ -9,4 +9,4 @@ VIT Student | Learning Python for Placements
 Started: 30 Aug 2026
 
 ---
-⭐ Daily Commit Goal: 1 Code per Day
+⭐ Daily Commit Goal: 3 Code per Day
