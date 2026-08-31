@@ -4,6 +4,7 @@ my first python learning codes
 | No | Problem | Link |
 |----|---------|------|
 | 01 | If-Else | [HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem) |
+| 02 | Arithmetic| https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true|
 ## 👩‍💻 About Me
 VIT Student | Learning Python for Placements
 Started: 30 Aug 2026
